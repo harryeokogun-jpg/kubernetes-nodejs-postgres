@@ -1,0 +1,1 @@
+A production ready reference architecture deploying a stateless Node.js web application connected to a stateful PostgreSQL database on Kubernetes. This project demonstrates best practices for separating application logic from persistent storage, managing sensitive configuration with Kubernetes Secret and handling environment configuration with ConfigMaps.
